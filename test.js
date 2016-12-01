@@ -1,1 +1,3 @@
-alert('kb1337');
+$(document).ready ( function(){
+   alert('kb1337');
+});​
